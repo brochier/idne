@@ -1,0 +1,18 @@
+# python
+*.pyc
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.ipynb_checkpoints
+.idea/*
+
+# output
+output/*
+
+# logs
+logs/*
+
+# gitkeep anywhere
+!.gitkeep
+
