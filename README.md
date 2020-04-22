@@ -1,4 +1,4 @@
-## Python package for the paper "Inductive Document Network Embedding with Topic-Word Attention" to appear at ECIR 2020.
+## Python package for the paper [Inductive Document Network Embedding with Topic-Word Attention](https://arxiv.org/pdf/2001.03369.pdf) (ECIR20)
 
 ### To run the experiments presented in the paper:
 
